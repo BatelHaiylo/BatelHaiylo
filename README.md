@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 LinkedInBatel Haiylo | BehanceBatel Haiylo 
 
 
-
-
-Top free fonts for headings!
-Buttons — Rounded Corners or Sharp?
-
 Languages and Tools:
 HTML5CSS3PythonCC++gitGitHub
 
