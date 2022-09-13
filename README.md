@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(Use dark theme to find my socials ;)
+
 
 LinkedInBatel Haiylo | BehanceBatel Haiylo 
 
