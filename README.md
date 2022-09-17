@@ -1,35 +1,3 @@
-### Hi there 👋
-
-<!--
-**BatelHaiylo/BatelHaiylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-LinkedInBatel Haiylo | BehanceBatel Haiylo 
-
-
-Languages and Tools:
-HTML5CSS3PythonCC++gitGitHub
-
-
-Softwares:
-Visual Studio Code
-
-XDIllustratorPhotoshopPhotoshop
-
-
 <h1 align="center">Hi 👋, I'm Batel Haiylo</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding-Woman" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
