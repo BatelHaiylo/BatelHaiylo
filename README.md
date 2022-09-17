@@ -1,7 +1,7 @@
 <img align="center" alt="banner" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
 <h1 align="center">Hi 👋, I'm Batel Haiylo</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" alt="Coding-Woman" width="400" margin="20px" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
+<img align="right" alt="Coding-Woman" width="400" margin="20px" src="https://cdn.edu.buncee.com/assets/ccdc8560213ccad197a3aff8efcfe8c8/esc.gif?timestamp=1554148348">
 
 - 👨‍💻 All of my projects are available at [cooming soon ...](cooming soon ...)
 - 🌱 I’m currently learning **Figma, Advanced React, Firebase, and Web accessibility tools **
