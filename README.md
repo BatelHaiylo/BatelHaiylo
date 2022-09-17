@@ -3,8 +3,10 @@
 <img align="right" alt="Coding-Woman" width="400" margin="20px" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
 - 👨‍💻 All of my projects are available at [cooming soon ...](cooming soon ...)
+- 🌱 I’m currently learning **Figma, Advanced React, Firebase, and Web accessibility tools **
+💬 Ask me about 
 
-- 💬 Ask me about **state manegment in react and redux || js engein**
+- 💬 Ask me about **state manegment in react and redux, javascript, js engein react, react hooks, css3, html5, front-end development **
 
 - 📫 How to reach me **https://www.linkedin.com/in/batel-haiylo/**
 
