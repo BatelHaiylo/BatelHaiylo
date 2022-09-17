@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batel Haiylo</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img align="right" alt="Coding-Woman" width="400" padding="10" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
+<img align="right" alt="Coding-Woman" width="400" margin="10" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
 - 👨‍💻 All of my projects are available at [cooming soon ...](cooming soon ...)
 
