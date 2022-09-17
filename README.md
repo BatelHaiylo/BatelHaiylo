@@ -4,12 +4,8 @@
 
 - 👨‍💻 All of my projects are available at [cooming soon ...](cooming soon ...)
 - 🌱 I’m currently learning **Figma, Advanced React, Firebase, and Web accessibility tools **
-💬 Ask me about 
-
 - 💬 Ask me about **state manegment in react and redux, javascript, js engein react, react hooks, css3, html5, front-end development **
-
 - 📫 How to reach me **https://www.linkedin.com/in/batel-haiylo/**
-
 - ⚡ Fun fact **Besides learning new technologies, I am a great team player.**
 
 <h3 align="left">Connect with me:</h3>
