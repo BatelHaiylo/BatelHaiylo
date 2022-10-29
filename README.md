@@ -3,7 +3,6 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding-Woman" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 👨‍💻 All of my projects are available at [cooming soon ...](cooming soon ...)
 - 🌱 I’m currently learning **Figma, Advanced React, Firebase, and Web accessibility tools **
 - 💬 Ask me about **state manegment in react and redux, javascript, js engein react, react hooks, css3, html5, front-end development **
 - 📫 How to reach me **https://www.linkedin.com/in/batel-haiylo/**
